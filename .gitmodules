@@ -1,0 +1,9 @@
+[submodule "ca-back-end"]
+	path = ca-back-end
+	url = https://github.com/comment-anything/ca-back-end.git
+[submodule "ca-static"]
+	path = ca-static
+	url = https://github.com/comment-anything/ca-static.git
+[submodule "ca-front-end"]
+	path = ca-front-end
+	url = https://github.com/comment-anything/ca-front-end.git
