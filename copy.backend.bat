@@ -1,0 +1,1 @@
+scp -i ssh/id -r ca-back-end/* root@commentanywhere.net:/COMANY/gosrc

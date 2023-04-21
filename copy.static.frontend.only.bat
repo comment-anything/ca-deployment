@@ -1,0 +1,1 @@
+scp -i ssh/id ca-static/public/home/ca.zip root@commentanywhere.net:/COMANY/stat/public/home/ca.zip
